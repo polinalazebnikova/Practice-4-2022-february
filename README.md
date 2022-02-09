@@ -25,4 +25,4 @@
 
 2.3. Представить выполненное задание в виде текста, оформленного в соответствии с ГОСТ «Общие требования к текстовым документам» (https://files.stroyinf.ru/Data/708/70827.pdf).
 
-[ВСР 2.1-2.3]()
+[ВСР 2.1-2.3](https://github.com/polinalazebnikova/Practice-4-2022-february/blob/master/pdf/%D0%9B%D0%B0%D0%B7%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%20%D0%9F%D0%9C%20%D0%98%D0%92%D0%A2%20%D0%92%D0%A1%D0%A0.pdf)
